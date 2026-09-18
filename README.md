@@ -1,5 +1,7 @@
 # BetMaker — Odds field (Maze build)
 
+**Live:** https://jimpawa.github.io/betmaker-odds-field/
+
 `index.html` — the **Odds field** prototype only (option 2 from the original
 "BetMaker Direct (standalone).html" review page), rebuilt as a normal
 responsive web page: no device frame, fills the viewport at any size.

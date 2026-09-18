@@ -16,6 +16,10 @@ Claude Design "(standalone)" exports are one HTML file with four
 Compressed entries are gzip. `src/` in this project holds the extraction +
 rebuild scripts, reusable for any other Claude Design standalone export.
 
-## Not done yet
-Not published anywhere — Maze needs a URL, so a GitHub Pages repo under
-`jimpawa` is the obvious next step if Jim wants it hosted.
+## Published
+Live: https://jimpawa.github.io/betmaker-odds-field/
+Repo: https://github.com/jimpawa/betmaker-odds-field (public, Pages = legacy
+"deploy from branch", main / root — no Actions workflow, because the `gh`
+token currently lacks the `workflow` scope). Deploy = `git push`; live in
+~30–60 s. Verified live at 390x844 and 1440x900: mounts, 47 icons, betslip
+flow works, no console errors, no horizontal overflow.
